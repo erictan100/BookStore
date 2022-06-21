@@ -1,0 +1,26 @@
+﻿body {
+    background:url(cover/Background.jpg);
+}
+
+nav{
+    background-color:floralwhite;
+}
+
+h1.Header{
+    text-align:center;
+    font-size:70px;
+    background-color:papayawhip;
+}
+
+h2{
+    background-color:antiquewhite;
+}
+
+h2.genreTitle{
+    text-align:center;
+    font-size:45px;
+}
+
+Placeholder1{
+    background-color:antiquewhite;
+}
